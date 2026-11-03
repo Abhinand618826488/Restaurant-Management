@@ -1,0 +1,11 @@
+###
+GET http://127.0.0.1:8000/foods/
+
+###
+GET http://127.0.0.1:8000/foods/101/
+
+###
+GET http://127.0.0.1:8000/restaurants/
+
+###
+GET http://127.0.0.1:8000/categories/
